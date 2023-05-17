@@ -98,3 +98,16 @@ _[]  pendiente_
 - [] Punteros a puntero. 
 - [] Vector de punteros. 
 
+### SISTEMAS DE NUMERACIÓN Y REPRESENTACIÓN NUMÉRICA
+
+- [] Aritmética Binaria Introducción. 
+- [] Los sistemas de numeración y su evolución histórica. 
+- [] Sistemas de numeración decimal, binario, octal y hexadecimal. 
+- [] Pasajes entre sistemas de números enteros y positivos. 
+- [] Representación de Números signados: Convenio de signo y magnitud. 
+- [] Convenio de complemento a uno. 
+- [] Convenio de complemento a dos. 
+- [] Operaciones de adición y de sustracción utilizando el convenio de complemento a dos. 
+- [] Representación de números fraccionarios. Punto flotante. 
+- [] Precisión y truncado. Formato IEEE 754. 
+- [] Representación de caracteres: Binario Codificado Decimal (BCD), ASCII.
